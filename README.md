@@ -45,9 +45,9 @@ Copiad `ejemplo_bot.py` a `mi_bot.py`, mejoradlo y medid cada cambio con `evalua
 
 | Hora | Qué pasa |
 |---|---|
-| 10:00 | Presentación técnica del reto. Material disponible. Hasta 3 entregas (solo test). |
+| 10:00 | Presentación técnica del reto. Material disponible. Entregas sin límite (solo test). |
 | 14:15 | Comida. |
-| **15:30** | **Giro:** aparecerá aquí `kit/giro_publico.jsonl`. Desde entonces cada entrega lleva test + giro en un solo CSV. Hasta 3 entregas más. |
+| **15:30** | **Giro:** aparecerá aquí `kit/giro_publico.jsonl`. Desde entonces cada entrega lleva test + giro en un solo CSV. |
 | **19:00** | Cierre de entregas. Se revela la clasificación final. |
 | 19:00–20:15 | Los 5 primeros reproducen su bot sobre un lote nuevo delante del jurado. |
 | **20:30** | Anuncio de los finalistas. |
